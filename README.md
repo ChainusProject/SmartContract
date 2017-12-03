@@ -9,3 +9,4 @@ to innovate the copyright industry, and challenge on various possibilities.
 This project also presents a new business model for investing in the enormous IP industry. We will
 create a "digital asset" called "NPER COIN" that can be invested by everyone after purchasing the 'rights'
 of various categories of intellectual property rights.
+
