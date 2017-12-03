@@ -1,6 +1,6 @@
 # NPER SmartContract
 
-# What is NPER? : Global IP Peer to Peer Trade & Investment Platform
+## What is NPER? : Global IP Peer to Peer Trade & Investment Platform
 
 NPER is a project that allows creators to take legitimate rights by defeating the unusual copyright
 industry structure that takes away the legitimate rights of creators. It will build a blockchain main network
