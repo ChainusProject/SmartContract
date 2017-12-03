@@ -1,5 +1,4 @@
-# SmartContract
-NPER SmartContract
+# NPER SmartContract
 
 # What is NPER? : Global IP Peer to Peer Trade & Investment Platform
 
